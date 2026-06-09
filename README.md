@@ -6,3 +6,4 @@
 4. pipelines
 5. app.py
 "# End-to-end-Sign-Language-Detection-main" 
+"# End-to-end-Sign-Language-Detection-main" 
